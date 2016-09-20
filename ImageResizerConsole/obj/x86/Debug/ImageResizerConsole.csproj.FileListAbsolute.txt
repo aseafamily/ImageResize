@@ -1,0 +1,4 @@
+D:\Projects\ImageResizerConsole\ImageResizerConsole\bin\Debug\ImageResizerConsole.exe
+D:\Projects\ImageResizerConsole\ImageResizerConsole\bin\Debug\ImageResizerConsole.pdb
+D:\Projects\ImageResizerConsole\ImageResizerConsole\obj\x86\Debug\ImageResizerConsole.exe
+D:\Projects\ImageResizerConsole\ImageResizerConsole\obj\x86\Debug\ImageResizerConsole.pdb
